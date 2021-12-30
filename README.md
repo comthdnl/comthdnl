@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m Sowi_Yoo 
 - 👀 I’m interested in python, c, dbeaver, Django
-- 🌱 I’m currently learning java, c, dbeaver, Django
+- 🌱 I’m currently learning java, c, SQL, POSTGRESQL, dbeaver, Django
 
 | CONTACT | INFO |
 | ------ | ------ |
